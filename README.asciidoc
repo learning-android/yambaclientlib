@@ -1,6 +1,8 @@
 = About This Project
 
-Simple client for the Twitter protocol
+Client library implementing simple Twitter API to support Yamba app.
+
+https://github.com/learning-android/yambaclientlib/blob/master/bin/yambaclientlib.jar?raw=true[Download the binary]
 
 == Legal
 
