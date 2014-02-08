@@ -24,7 +24,7 @@
 ##################
 obj/*
 libs/*
-bin
+#bin
 gen
 
 # Logs               #
