@@ -1,0 +1,9 @@
+= About This Project
+
+Simple client for the Twitter protocol
+
+== Legal
+
+Please see ++NOTICE++ file in this directory for copyright, license terms, and legal disclaimers.
+
+Copyright © 2012 Marakana Inc.
